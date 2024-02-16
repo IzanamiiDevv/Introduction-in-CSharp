@@ -12,5 +12,5 @@ A Basic  Console Program Created by DotNet C#!
 <h2 align="center">Tools and Framework</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,vscode" />
 </div>
