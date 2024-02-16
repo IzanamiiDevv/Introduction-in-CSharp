@@ -2,10 +2,11 @@
 A Basic  Console Program Created by DotNet C#!
 
 ##  Setup:
-1. Install VS Code <br>
-2. Install Dotnet Application <br>
-3. Open the Folder <br>
-4. Press <code>F5</code> tp Start the Program
+1. Install Dotnet application
+2. Download the project
+3. Open the project folder in a terminal
+4. Enter `dotnet publish`
+5. Run the executable in the bin folder
 
 
 
